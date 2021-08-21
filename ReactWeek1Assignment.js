@@ -49,17 +49,17 @@ class Bootcamp {
 
 }
 
-console.log("Starting scripst.");
+// console.log("Starting scripst.");
 
-const masa = new Student("Masa", "masa@masa.us", "Web Dev Fundamentals");
-const julia = new Student("julia", "julia@masa.us", "Web Dev Fundamentals");
+// const masa = new Student("Masa", "masa@masa.us", "Web Dev Fundamentals");
+// const julia = new Student("julia", "julia@masa.us", "Web Dev Fundamentals");
 
-const nucamp = new Bootcamp("NuCamp", "1");
+// const nucamp = new Bootcamp("NuCamp", "1");
 
-nucamp.registerStudent(masa);
-nucamp.registerStudent(masa);
-nucamp.registerStudent(julia);
-console.log(nucamp.registerStudent(julia));
+// nucamp.registerStudent(masa);
+// nucamp.registerStudent(masa);
+// nucamp.registerStudent(julia);
+// console.log(nucamp.registerStudent(julia));
 
 
-console.log("Ending scripst.");
+// console.log("Ending scripst.");
